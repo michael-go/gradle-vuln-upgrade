@@ -10,4 +10,108 @@ ignore:
     - '*':
         reason: None Given
         expires: 2018-09-20T11:18:21.855Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30060:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:07:48.495Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30773:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:07:57.469Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30774:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:08:03.399Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30775:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:08:07.312Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30776:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:08:10.779Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30777:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:08:16.381Z
+  SNYK-JAVA-ORGAPACHESTRUTS-31501:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:27.914Z
+  SNYK-JAVA-ORGAPACHESTRUTS-31502:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:29.649Z
+  SNYK-JAVA-ORGAPACHESTRUTS-31503:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:31.373Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30800:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:33.279Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30801:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:35.164Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30802:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:37.146Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30804:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:39.055Z
+  SNYK-JAVA-OGNL-30474:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:41.288Z
+  SNYK-JAVA-COMMONSFILEUPLOAD-31540:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:43.336Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30058:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:45.362Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30207:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:47.577Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30770:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:49.652Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30771:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:51.913Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30772:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:10:59.663Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30778:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:11:03.176Z
+  SNYK-JAVA-ORGAPACHESTRUTS-31495:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:11:07.238Z
+  SNYK-JAVA-ORGAPACHESTRUTS-31500:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:11:11.535Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30797:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:11:15.080Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30798:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:11:19.337Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30799:
+    - '*':
+        reason: None Given
+        expires: 2018-09-20T12:11:23.611Z
 patch: {}
