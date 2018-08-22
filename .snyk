@@ -2,14 +2,6 @@
 version: v1.12.0
 # ignores vulnerabilities until expiry date; change duration by modifying expiry date
 ignore:
-  SNYK-JAVA-COMMONSFILEUPLOAD-30401:
-    - '*':
-        reason: None Given
-        expires: 2018-09-20T11:17:30.888Z
-  SNYK-JAVA-COMMONSFILEUPLOAD-30082:
-    - '*':
-        reason: None Given
-        expires: 2018-09-20T11:18:21.855Z
   SNYK-JAVA-ORGAPACHESTRUTS-30060:
     - '*':
         reason: None Given
@@ -66,10 +58,6 @@ ignore:
     - '*':
         reason: None Given
         expires: 2018-09-20T12:10:41.288Z
-  SNYK-JAVA-COMMONSFILEUPLOAD-31540:
-    - '*':
-        reason: None Given
-        expires: 2018-09-20T12:10:43.336Z
   SNYK-JAVA-ORGAPACHESTRUTS-30058:
     - '*':
         reason: None Given
